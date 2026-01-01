@@ -92,15 +92,3 @@ Designed 4 main dashboard pages:
 2. Open with Power BI Desktop
 3. Explore the interactive dashboards
 4. Use slicers and filters to drill down into specific insights
-
----
-
-## 📧 Contact
-
-Feel free to reach out for questions or collaboration opportunities!
-
----
-
-## 📝 License
-
-This project is for educational and portfolio purposes.
