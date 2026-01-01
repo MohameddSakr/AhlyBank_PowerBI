@@ -7,7 +7,7 @@
 
 ## 📊 Project Overview
 
-This is my first Power BI project for banking analytics: a comprehensive analytical dashboard for **Ahly Bank** data.
+This is my Second Power BI project for banking analytics: a comprehensive analytical dashboard for **Ahly Bank** data.
 
 The goal was to transform raw banking data (**Transactions, Loans, Accounts, Support Calls, Customers, Cards**) into actionable insights to understand **customer behavior, transaction patterns, loan portfolios, and support performance**.
 
